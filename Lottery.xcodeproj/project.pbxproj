@@ -7,6 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5A61F15E1A2F428B0093B112 /* UINavigationItem+YGCCategory.m in Sources */ = {isa = PBXBuildFile; fileRef = 5A61F15D1A2F428B0093B112 /* UINavigationItem+YGCCategory.m */; };
+		5A61F1611A2F450E0093B112 /* LYHallController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5A61F1601A2F450E0093B112 /* LYHallController.m */; };
+		5A61F1641A2F45D80093B112 /* LYUnionBuyController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5A61F1631A2F45D80093B112 /* LYUnionBuyController.m */; };
+		5A61F1681A2F46540093B112 /* LYAwardInfoController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5A61F1671A2F46540093B112 /* LYAwardInfoController.m */; };
+		5A61F16E1A2F46EE0093B112 /* LYLuckyNumController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5A61F16D1A2F46EE0093B112 /* LYLuckyNumController.m */; };
+		5A61F1711A2F47370093B112 /* LYMineController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5A61F1701A2F47370093B112 /* LYMineController.m */; };
+		5A61F1741A2F475F0093B112 /* LYSettingController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5A61F1731A2F475F0093B112 /* LYSettingController.m */; };
+		5A61F1771A2F4C630093B112 /* LYNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5A61F1761A2F4C630093B112 /* LYNavigationController.m */; };
 		5A8BE4D91A2F331700B62D0D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A8BE4D81A2F331700B62D0D /* Foundation.framework */; };
 		5A8BE4DB1A2F331700B62D0D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A8BE4DA1A2F331700B62D0D /* CoreGraphics.framework */; };
 		5A8BE4DD1A2F331700B62D0D /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A8BE4DC1A2F331700B62D0D /* UIKit.framework */; };
@@ -21,6 +29,14 @@
 		5A8BE4FA1A2F331700B62D0D /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A8BE4DC1A2F331700B62D0D /* UIKit.framework */; };
 		5A8BE5021A2F331700B62D0D /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 5A8BE5001A2F331700B62D0D /* InfoPlist.strings */; };
 		5A8BE5041A2F331700B62D0D /* LotteryTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5A8BE5031A2F331700B62D0D /* LotteryTests.m */; };
+		5A8BE5171A2F37E500B62D0D /* LYTabController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5A8BE5151A2F37E500B62D0D /* LYTabController.m */; };
+		5A8BE51A1A2F380000B62D0D /* LYTabBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 5A8BE5191A2F380000B62D0D /* LYTabBar.m */; };
+		5A8BE52C1A2F3A0D00B62D0D /* NSDate+YGCCategory.m in Sources */ = {isa = PBXBuildFile; fileRef = 5A8BE5211A2F3A0D00B62D0D /* NSDate+YGCCategory.m */; };
+		5A8BE52D1A2F3A0D00B62D0D /* NSObject+Value.m in Sources */ = {isa = PBXBuildFile; fileRef = 5A8BE5231A2F3A0D00B62D0D /* NSObject+Value.m */; };
+		5A8BE52E1A2F3A0D00B62D0D /* NSString+YGCCategory.m in Sources */ = {isa = PBXBuildFile; fileRef = 5A8BE5251A2F3A0D00B62D0D /* NSString+YGCCategory.m */; };
+		5A8BE52F1A2F3A0D00B62D0D /* UIBarButtonItem+YGCCategory.m in Sources */ = {isa = PBXBuildFile; fileRef = 5A8BE5271A2F3A0D00B62D0D /* UIBarButtonItem+YGCCategory.m */; };
+		5A8BE5301A2F3A0D00B62D0D /* UIImage+YGCCategory.m in Sources */ = {isa = PBXBuildFile; fileRef = 5A8BE5291A2F3A0D00B62D0D /* UIImage+YGCCategory.m */; };
+		5A8BE5311A2F3A0D00B62D0D /* UITextField+YGCCategory.m in Sources */ = {isa = PBXBuildFile; fileRef = 5A8BE52B1A2F3A0D00B62D0D /* UITextField+YGCCategory.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +50,22 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		5A61F15C1A2F428B0093B112 /* UINavigationItem+YGCCategory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UINavigationItem+YGCCategory.h"; sourceTree = "<group>"; };
+		5A61F15D1A2F428B0093B112 /* UINavigationItem+YGCCategory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UINavigationItem+YGCCategory.m"; sourceTree = "<group>"; };
+		5A61F15F1A2F450E0093B112 /* LYHallController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LYHallController.h; sourceTree = "<group>"; };
+		5A61F1601A2F450E0093B112 /* LYHallController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LYHallController.m; sourceTree = "<group>"; };
+		5A61F1621A2F45D80093B112 /* LYUnionBuyController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LYUnionBuyController.h; sourceTree = "<group>"; };
+		5A61F1631A2F45D80093B112 /* LYUnionBuyController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LYUnionBuyController.m; sourceTree = "<group>"; };
+		5A61F1661A2F46540093B112 /* LYAwardInfoController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = LYAwardInfoController.h; path = "../Hall(购彩大厅)/LYAwardInfoController.h"; sourceTree = "<group>"; };
+		5A61F1671A2F46540093B112 /* LYAwardInfoController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = LYAwardInfoController.m; path = "../Hall(购彩大厅)/LYAwardInfoController.m"; sourceTree = "<group>"; };
+		5A61F16C1A2F46EE0093B112 /* LYLuckyNumController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = LYLuckyNumController.h; path = ../../../../../LYLuckyNumController.h; sourceTree = "<group>"; };
+		5A61F16D1A2F46EE0093B112 /* LYLuckyNumController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = LYLuckyNumController.m; path = ../../../../../LYLuckyNumController.m; sourceTree = "<group>"; };
+		5A61F16F1A2F47370093B112 /* LYMineController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LYMineController.h; sourceTree = "<group>"; };
+		5A61F1701A2F47370093B112 /* LYMineController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LYMineController.m; sourceTree = "<group>"; };
+		5A61F1721A2F475F0093B112 /* LYSettingController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LYSettingController.h; sourceTree = "<group>"; };
+		5A61F1731A2F475F0093B112 /* LYSettingController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LYSettingController.m; sourceTree = "<group>"; };
+		5A61F1751A2F4C630093B112 /* LYNavigationController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LYNavigationController.h; sourceTree = "<group>"; };
+		5A61F1761A2F4C630093B112 /* LYNavigationController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LYNavigationController.m; sourceTree = "<group>"; };
 		5A8BE4D51A2F331700B62D0D /* Lottery.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Lottery.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5A8BE4D81A2F331700B62D0D /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		5A8BE4DA1A2F331700B62D0D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -53,6 +85,25 @@
 		5A8BE4FF1A2F331700B62D0D /* LotteryTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "LotteryTests-Info.plist"; sourceTree = "<group>"; };
 		5A8BE5011A2F331700B62D0D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		5A8BE5031A2F331700B62D0D /* LotteryTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LotteryTests.m; sourceTree = "<group>"; };
+		5A8BE5141A2F37E500B62D0D /* LYTabController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LYTabController.h; sourceTree = "<group>"; };
+		5A8BE5151A2F37E500B62D0D /* LYTabController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LYTabController.m; sourceTree = "<group>"; };
+		5A8BE5181A2F380000B62D0D /* LYTabBar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LYTabBar.h; sourceTree = "<group>"; };
+		5A8BE5191A2F380000B62D0D /* LYTabBar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LYTabBar.m; sourceTree = "<group>"; };
+		5A8BE51C1A2F39FF00B62D0D /* CommandHeader.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CommandHeader.h; sourceTree = "<group>"; };
+		5A8BE51D1A2F39FF00B62D0D /* AppUtil.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppUtil.h; sourceTree = "<group>"; };
+		5A8BE51E1A2F39FF00B62D0D /* Singleton.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Singleton.h; sourceTree = "<group>"; };
+		5A8BE5201A2F3A0D00B62D0D /* NSDate+YGCCategory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSDate+YGCCategory.h"; sourceTree = "<group>"; };
+		5A8BE5211A2F3A0D00B62D0D /* NSDate+YGCCategory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSDate+YGCCategory.m"; sourceTree = "<group>"; };
+		5A8BE5221A2F3A0D00B62D0D /* NSObject+Value.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+Value.h"; sourceTree = "<group>"; };
+		5A8BE5231A2F3A0D00B62D0D /* NSObject+Value.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+Value.m"; sourceTree = "<group>"; };
+		5A8BE5241A2F3A0D00B62D0D /* NSString+YGCCategory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+YGCCategory.h"; sourceTree = "<group>"; };
+		5A8BE5251A2F3A0D00B62D0D /* NSString+YGCCategory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+YGCCategory.m"; sourceTree = "<group>"; };
+		5A8BE5261A2F3A0D00B62D0D /* UIBarButtonItem+YGCCategory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIBarButtonItem+YGCCategory.h"; sourceTree = "<group>"; };
+		5A8BE5271A2F3A0D00B62D0D /* UIBarButtonItem+YGCCategory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIBarButtonItem+YGCCategory.m"; sourceTree = "<group>"; };
+		5A8BE5281A2F3A0D00B62D0D /* UIImage+YGCCategory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+YGCCategory.h"; sourceTree = "<group>"; };
+		5A8BE5291A2F3A0D00B62D0D /* UIImage+YGCCategory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+YGCCategory.m"; sourceTree = "<group>"; };
+		5A8BE52A1A2F3A0D00B62D0D /* UITextField+YGCCategory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UITextField+YGCCategory.h"; sourceTree = "<group>"; };
+		5A8BE52B1A2F3A0D00B62D0D /* UITextField+YGCCategory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UITextField+YGCCategory.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +130,60 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		5A61F1571A2F3FD30093B112 /* Hall(购彩大厅) */ = {
+			isa = PBXGroup;
+			children = (
+				5A61F15F1A2F450E0093B112 /* LYHallController.h */,
+				5A61F1601A2F450E0093B112 /* LYHallController.m */,
+			);
+			path = "Hall(购彩大厅)";
+			sourceTree = "<group>";
+		};
+		5A61F1581A2F3FD30093B112 /* LuckyNum(幸运选号) */ = {
+			isa = PBXGroup;
+			children = (
+				5A61F16C1A2F46EE0093B112 /* LYLuckyNumController.h */,
+				5A61F16D1A2F46EE0093B112 /* LYLuckyNumController.m */,
+			);
+			path = "LuckyNum(幸运选号)";
+			sourceTree = "<group>";
+		};
+		5A61F1591A2F3FD30093B112 /* Mine(我的彩票) */ = {
+			isa = PBXGroup;
+			children = (
+				5A61F16F1A2F47370093B112 /* LYMineController.h */,
+				5A61F1701A2F47370093B112 /* LYMineController.m */,
+			);
+			path = "Mine(我的彩票)";
+			sourceTree = "<group>";
+		};
+		5A61F15A1A2F3FD30093B112 /* Setting(设置) */ = {
+			isa = PBXGroup;
+			children = (
+				5A61F1721A2F475F0093B112 /* LYSettingController.h */,
+				5A61F1731A2F475F0093B112 /* LYSettingController.m */,
+			);
+			path = "Setting(设置)";
+			sourceTree = "<group>";
+		};
+		5A61F15B1A2F3FD30093B112 /* UnionBuy(合买跟单) */ = {
+			isa = PBXGroup;
+			children = (
+				5A61F1621A2F45D80093B112 /* LYUnionBuyController.h */,
+				5A61F1631A2F45D80093B112 /* LYUnionBuyController.m */,
+			);
+			path = "UnionBuy(合买跟单)";
+			sourceTree = "<group>";
+		};
+		5A61F1651A2F46350093B112 /* AwardInfo(开奖信息) */ = {
+			isa = PBXGroup;
+			children = (
+				5A61F1661A2F46540093B112 /* LYAwardInfoController.h */,
+				5A61F1671A2F46540093B112 /* LYAwardInfoController.m */,
+			);
+			path = "AwardInfo(开奖信息)";
+			sourceTree = "<group>";
+		};
 		5A8BE4CC1A2F331700B62D0D = {
 			isa = PBXGroup;
 			children = (
@@ -112,6 +217,7 @@
 		5A8BE4DE1A2F331700B62D0D /* Lottery */ = {
 			isa = PBXGroup;
 			children = (
+				5A8BE50D1A2F338400B62D0D /* Classes */,
 				5A8BE4E71A2F331700B62D0D /* YGCAppDelegate.h */,
 				5A8BE4E81A2F331700B62D0D /* YGCAppDelegate.m */,
 				5A8BE4EA1A2F331700B62D0D /* Main.storyboard */,
@@ -126,6 +232,7 @@
 		5A8BE4DF1A2F331700B62D0D /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				5A8BE50F1A2F338400B62D0D /* Resource */,
 				5A8BE4E01A2F331700B62D0D /* Lottery-Info.plist */,
 				5A8BE4E11A2F331700B62D0D /* InfoPlist.strings */,
 				5A8BE4E41A2F331700B62D0D /* main.m */,
@@ -150,6 +257,89 @@
 				5A8BE5001A2F331700B62D0D /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		5A8BE50D1A2F338400B62D0D /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				5A61F1651A2F46350093B112 /* AwardInfo(开奖信息) */,
+				5A61F1571A2F3FD30093B112 /* Hall(购彩大厅) */,
+				5A61F1581A2F3FD30093B112 /* LuckyNum(幸运选号) */,
+				5A61F1591A2F3FD30093B112 /* Mine(我的彩票) */,
+				5A61F15A1A2F3FD30093B112 /* Setting(设置) */,
+				5A61F15B1A2F3FD30093B112 /* UnionBuy(合买跟单) */,
+				5A8BE51B1A2F39E500B62D0D /* Comand */,
+				5A8BE50E1A2F338400B62D0D /* Main */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		5A8BE50E1A2F338400B62D0D /* Main */ = {
+			isa = PBXGroup;
+			children = (
+				5A8BE5131A2F37E500B62D0D /* Controller */,
+				5A8BE5161A2F37E500B62D0D /* View */,
+			);
+			path = Main;
+			sourceTree = "<group>";
+		};
+		5A8BE50F1A2F338400B62D0D /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Resource;
+			sourceTree = "<group>";
+		};
+		5A8BE5131A2F37E500B62D0D /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				5A8BE5141A2F37E500B62D0D /* LYTabController.h */,
+				5A8BE5151A2F37E500B62D0D /* LYTabController.m */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		5A8BE5161A2F37E500B62D0D /* View */ = {
+			isa = PBXGroup;
+			children = (
+				5A8BE5181A2F380000B62D0D /* LYTabBar.h */,
+				5A8BE5191A2F380000B62D0D /* LYTabBar.m */,
+				5A61F1751A2F4C630093B112 /* LYNavigationController.h */,
+				5A61F1761A2F4C630093B112 /* LYNavigationController.m */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		5A8BE51B1A2F39E500B62D0D /* Comand */ = {
+			isa = PBXGroup;
+			children = (
+				5A8BE51F1A2F3A0D00B62D0D /* Caregory */,
+				5A8BE51C1A2F39FF00B62D0D /* CommandHeader.h */,
+				5A8BE51D1A2F39FF00B62D0D /* AppUtil.h */,
+				5A8BE51E1A2F39FF00B62D0D /* Singleton.h */,
+			);
+			path = Comand;
+			sourceTree = "<group>";
+		};
+		5A8BE51F1A2F3A0D00B62D0D /* Caregory */ = {
+			isa = PBXGroup;
+			children = (
+				5A8BE5201A2F3A0D00B62D0D /* NSDate+YGCCategory.h */,
+				5A8BE5211A2F3A0D00B62D0D /* NSDate+YGCCategory.m */,
+				5A8BE5221A2F3A0D00B62D0D /* NSObject+Value.h */,
+				5A8BE5231A2F3A0D00B62D0D /* NSObject+Value.m */,
+				5A8BE5241A2F3A0D00B62D0D /* NSString+YGCCategory.h */,
+				5A8BE5251A2F3A0D00B62D0D /* NSString+YGCCategory.m */,
+				5A8BE5261A2F3A0D00B62D0D /* UIBarButtonItem+YGCCategory.h */,
+				5A8BE5271A2F3A0D00B62D0D /* UIBarButtonItem+YGCCategory.m */,
+				5A8BE5281A2F3A0D00B62D0D /* UIImage+YGCCategory.h */,
+				5A8BE5291A2F3A0D00B62D0D /* UIImage+YGCCategory.m */,
+				5A8BE52A1A2F3A0D00B62D0D /* UITextField+YGCCategory.h */,
+				5A8BE52B1A2F3A0D00B62D0D /* UITextField+YGCCategory.m */,
+				5A61F15C1A2F428B0093B112 /* UINavigationItem+YGCCategory.h */,
+				5A61F15D1A2F428B0093B112 /* UINavigationItem+YGCCategory.m */,
+			);
+			path = Caregory;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -251,8 +441,24 @@
 			buildActionMask = 2147483647;
 			files = (
 				5A8BE4E91A2F331700B62D0D /* YGCAppDelegate.m in Sources */,
+				5A61F1611A2F450E0093B112 /* LYHallController.m in Sources */,
+				5A61F16E1A2F46EE0093B112 /* LYLuckyNumController.m in Sources */,
+				5A8BE5301A2F3A0D00B62D0D /* UIImage+YGCCategory.m in Sources */,
+				5A8BE52F1A2F3A0D00B62D0D /* UIBarButtonItem+YGCCategory.m in Sources */,
+				5A61F1741A2F475F0093B112 /* LYSettingController.m in Sources */,
+				5A8BE5171A2F37E500B62D0D /* LYTabController.m in Sources */,
+				5A61F15E1A2F428B0093B112 /* UINavigationItem+YGCCategory.m in Sources */,
+				5A8BE51A1A2F380000B62D0D /* LYTabBar.m in Sources */,
+				5A8BE5311A2F3A0D00B62D0D /* UITextField+YGCCategory.m in Sources */,
+				5A61F1681A2F46540093B112 /* LYAwardInfoController.m in Sources */,
 				5A8BE4E51A2F331700B62D0D /* main.m in Sources */,
+				5A8BE52C1A2F3A0D00B62D0D /* NSDate+YGCCategory.m in Sources */,
+				5A8BE52E1A2F3A0D00B62D0D /* NSString+YGCCategory.m in Sources */,
+				5A61F1771A2F4C630093B112 /* LYNavigationController.m in Sources */,
+				5A8BE52D1A2F3A0D00B62D0D /* NSObject+Value.m in Sources */,
 				5A8BE4EF1A2F331700B62D0D /* YGCViewController.m in Sources */,
+				5A61F1641A2F45D80093B112 /* LYUnionBuyController.m in Sources */,
+				5A61F1711A2F47370093B112 /* LYMineController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -334,7 +540,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
 			};
@@ -366,7 +572,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
 			};
@@ -457,6 +663,7 @@
 				5A8BE5091A2F331700B62D0D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5A8BE50A1A2F331700B62D0D /* Build configuration list for PBXNativeTarget "LotteryTests" */ = {
 			isa = XCConfigurationList;
@@ -465,6 +672,7 @@
 				5A8BE50C1A2F331700B62D0D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
